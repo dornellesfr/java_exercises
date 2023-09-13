@@ -1,0 +1,6 @@
+Tipos mais usados:
+  - int;
+  - double;
+  - String (texto);
+  - char (1 caractere);
+  - boolean;
